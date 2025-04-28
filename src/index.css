@@ -1,0 +1,25 @@
+
+
+@import "tailwindcss";
+
+
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+body{
+  height: 100vh;
+  background-color: #050404;
+  color: #68A154;
+  font-family: 'outfit';
+  background-image: url(./assets/My_Photo.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-blend-mode: color-dodge;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
